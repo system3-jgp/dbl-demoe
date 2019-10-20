@@ -1,0 +1,19 @@
+body{
+  background-image:linear-gradient(to right, #7C8288,#293133);
+  font-weight:bold;
+}
+table{
+  background:white;
+  font-weight:bold;
+  border-radius:5px;
+}
+input{
+  background:white;
+  border-radius:5px;
+  border:none;
+  border-bottom:2px solid red;
+}
+button{
+  border-radius:5px;
+  
+}
